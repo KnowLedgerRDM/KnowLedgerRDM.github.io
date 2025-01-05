@@ -4,7 +4,8 @@ I am delighted that the following experts in a variety of areas around research 
 of the KnowLedger Steering Committee (KSC).
 
 ## Oliver Koepler
-<a href="https://www.linkedin.com/in/oliver-koepler-b55a995/" target="_blank"><img src="images/li_logo.png" alt="Oliver Koepler on LinkedIn" style="width: 100px;align: right;"></a>
+<img src="images/sc/koepler.jpg" alt="Oliver Koepler" style="width: 100px;float: right;">
+<a href="https://www.linkedin.com/in/oliver-koepler-b55a995/" target="_blank"><img src="images/li_logo.png" alt="Oliver Koepler on LinkedIn" style="width: 100px;float: left;"></a>
 Oliver Koepler is Head of the Lab Linked Scientific Knowledge at TIB – Leibniz Information Center for Science and 
 Technology. He holds a PhD in Organic Chemistry from the Technical University of Braunschweig, Germany. He has 
 experience in the area of Data Science and Digital Libraries for over 20 years. Dr. Koepler and his team develop 
