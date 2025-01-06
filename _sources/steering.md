@@ -4,8 +4,12 @@ I am delighted that the following experts in a variety of areas around research 
 of the KnowLedger Steering Committee (KSC).
 
 ## Oliver Koepler
-<img src="images/sc/koepler.jpg" alt="Oliver Koepler" style="width: 100px;float: right;">
-<a href="https://www.linkedin.com/in/oliver-koepler-b55a995/" target="_blank"><img src="images/li_logo.png" alt="Oliver Koepler on LinkedIn" style="width: 100px;float: left;"></a>
+```{image} images/sc/koepler.jpg
+:alt: Oliver Koepler
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 Oliver Koepler is Head of the Lab Linked Scientific Knowledge at TIB – Leibniz Information Center for Science and 
 Technology. He holds a PhD in Organic Chemistry from the Technical University of Braunschweig, Germany. He has 
 experience in the area of Data Science and Digital Libraries for over 20 years. Dr. Koepler and his team develop 
@@ -23,6 +27,12 @@ Research Data Infrastructure NFDI and member of the EOSC Task Force Semantic Int
 semantic interoperability through ontology harmonization, metadata standards, knowledge graphs, and terminology services.
 
 ## Beth Knazook
+```{image} images/sc/knazook.jpg
+:alt: Beth Knazook
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 Beth Knazook is a preservation professional and photo historian specialising in providing care and access to 
 photographic collections and special media in cultural heritage organisations. She holds a PhD in Art and Visual 
 Culture from Western University and an MA in Photographic Preservation and Collections Management from Toronto 
@@ -39,6 +49,12 @@ Metropolitan University Archives & Special Collections. She continues to teach p
 managing photograph collections for Library Juice Academy and the Society of American Archivists.
 
 ## Alexandra Kokkinaki
+```{image} images/sc/kokkinaki.jpg
+:alt: Beth Knazook
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 Alexandra Kokkinaki holds a PhD in Medical Informatics and serves as a Senior Semantic Web Scientist at the British 
 Oceanographic Data Centre (BODC), UK. She is the technical lead for the NERC Vocabulary Server (NVS) and the product 
 owner of its accompanying suite of tools.
@@ -65,6 +81,12 @@ contributes to the Cross-Domain Interoperability Framework (CDIF) working group.
 Vocabulary Semantic Services Interest Group (VSSIG). 
 
 ## Samantha Pearman-Kanza
+```{image} images/sc/kanza.jpg
+:alt: Samantha Pearman-Kanza
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 I am a Senior Enterprise Fellow at the University of Southampton, and a Pathfinder Lead on Process Recording for the 
 Physical Sciences Data Infrastructure (PSDI) Initiative - www.psdi.ac.uk. I am part of the AIChemy Hub Team (run out 
 of Imperial College London and the University of Liverpool), working on process recording and data management, and 
@@ -77,6 +99,12 @@ and FAIR data. My key research areas are ELNs, process recording, FAIR data, dat
 management, and semantic web technologies. 
 
 ## Nicole Jung
+```{image} images/sc/jung.jpg
+:alt: Nicole Jung
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 Nicole Jung is working at the Compound Platform at Karlsruhe Institute of Technology as part of the group of Stefan 
 Bräse at KIT-Campus North. Nicole’s work focuses on the integration of organic synthesis with advanced cheminformatics 
 and research data management tools. Her work contributed to the advancement of data management systems and electronic 
@@ -87,6 +115,12 @@ of an automated chemistry platform - ChemASAP - capable of performing automated 
 and data collection. Nicole Jung is a task area lead of the National Research Data Infrastructure for Chemistry (NFDI4Chem). 
 
 ## Erik Shultes
+```{image} images/sc/shultes.jpg
+:alt: Erik Shultes
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 From 2018, Erik has been the Lead FAIR implementation at the GO FAIR Foundation and is currently Senior Researcher 
 leading FAIRification efforts at the Metabolomics and Analytics Center, Leiden Academic Center for Drug Research 
 (LACDR). Erik is co-author on the original publication of the FAIR Guiding Principles, co-developer of the first 
@@ -99,6 +133,12 @@ appointments at the University of California Los Angeles, The Whitehead Institut
 Massachusetts Institute of Technology, and the Santa Fe Institute.
 
 ## Steve McEachern
+```{image} images/sc/mceachern.jpg
+:alt: Steve McEachern
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 Steve McEachern commenced as Director of the UK Data Service at the University of Essex in August 2024, following 15 
 years as Director of the Australian Data Archive (ADA), at the Australian National University (ANU). As Director, he is 
 responsible for the strategic development and direction of the Service and leading the partnership of five organisations
@@ -114,6 +154,12 @@ Steve is currently the treasurer of CODATA, the International Science Council’
 Interest Group. He was a member of the Australian Academy of Science’s National Committee on Data in Science from 2021-2024.
 
 ## Simon Hodson
+```{image} images/sc/hodson.jpg
+:alt: Simon Hodson
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 Executive Director of CODATA since August 2013, Simon Hodson is an expert on data policy issues and research data 
 stewardship. He chaired the European Commission’s Expert Group on FAIR Data which produced the report Turning FAIR 
 into Reality, and he was vice-chair of the UNESCO Open Science Advisory Committee, tasked with drafting the UNESCO 
@@ -122,6 +168,12 @@ oversees all CODATA activities including the WorldFAIR+ initiative. He is a memb
 Initiative Scientific Board.
 
 ## Stephan Schürer
+```{image} images/sc/schurer.jpg
+:alt: Stephan Schürer
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 Stephan Schürer is a Professor in the Department of Pharmacology, Associate Director of Data Science at the Sylvester 
 Comprehensive Cancer Center and Director of Digital Drug Discovery at the Institute for Data Science & Computing at the 
 University of Miami.
@@ -146,6 +198,12 @@ data science, cheminformatics, computational biology, and medicinal chemistry.  
 group develops data standards, ontologies, and full stack software applications.
 
 ## Jim Warren
+```{image} images/sc/warren.jpg
+:alt: Jim Warren
+:class: bg-primary mb-1
+:width: 100px
+:align: right
+```
 Dr. James A. Warren is the Director of the Materials Genome Program in the Material Measurement Laboratory of the 
 National Institute of Standards and Technology (NIST). After receiving his Ph.D. in Theoretical Physics at the 
 University of California, Santa Barbara, in 1992 he took a position as a National Research Council post-doc in the 
