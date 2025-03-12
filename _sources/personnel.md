@@ -22,22 +22,6 @@ Resource Description Framework (RDF) and the related SPARQL and SHACL specificat
 scripting, JavaScript/jQuery, MySQL, Bootstrap CSS, REST interfaces, API design and construction, schema design, and 
 vocabulary/ontology development.
 
-## Postdoctoral Associate: Dr. Analis Evans
+## Postdoctoral Associate:
 
-<img title="Dr. Analis Evans" src="images/evans.jpg" alt="Drawing" style="width: 200px;"/>
-
-<br/>Dr. Evans received her physics Ph.D. degree from the University of Florida. Her dissertation work focused on building a 
-computationally efficient, flexible, hybrid semi-analytic black hole formation and evolution model using the 
-cosmological simulation suite IllustrisTNG, enhancing its predictive power and producing a constrained seeding 
-parameter space. Her model is readily adaptable to other cosmological simulations. It is purposed for making black 
-hole population predictions for upcoming gravitational wave facilities such as the Laser Interferometer Space 
-Antenna (LISA) and can also be compared with AGN observations from the James Webb Space Telescope (JWST).
-
-During her time at UF, she became an associate member of the North American Nanohertz Observatory for Gravitational 
-Waves (NANOGrav) and a cohort 11 member of Stanford PRISM. Additionally, she has contributed to studies on spin-orbit 
-misalignments for cool stars hosting directly imaged substellar companions and for imaged JWST quasars in the 
-reionization era. She received her undergraduate B.S. physics degree from the Florida International University (FIU) 
-Honors College and did two undergraduate physics research programs at the University of Chicago and one at the 
-University of Texas at Austin.
-
-Additionally, Dr. Evans has experience in Python/C++, data analytics, machine learning, and YouTube content creation.
+[Click here to apply for this position](https://unf.wd5.myworkdayjobs.com/unfjobs/job/Jacksonville-FL/Postdoctoral-Associate_JR101464)
